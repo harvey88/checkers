@@ -674,3 +674,253 @@ textarea {
 .ba-rows8:nth-child(even) {
 	background: gray;
 }
+.chips_b .chip1 {
+	position: absolute;
+	background: #000;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	top: 6%;
+	left: 6%;
+}
+.chips_b .chip2 {
+	position: absolute;
+	background: #000;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	top: 6%;
+	left: 26%;
+}
+.chips_b .chip3 {
+	position: absolute;
+	background: #000;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	top: 6%;
+	left: 46%;
+}
+.chips_b .chip4 {
+	position: absolute;
+	background: #000;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	top: 6%;
+	left: 66%;
+}
+.chips_b .chip5 {
+	position: absolute;
+	background: #000;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	top: 16%;
+	left: 16%;
+}
+.chips_b .chip6 {
+	position: absolute;
+	background: #000;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	top: 16%;
+	left: 36%;
+}
+.chips_b .chip7 {
+	position: absolute;
+	background: #000;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	top: 16%;
+	left: 56%;
+}
+.chips_b .chip8 {
+	position: absolute;
+	background: #000;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	top: 16%;
+	left: 76%;
+}
+.chips_b .chip9 {
+	position: absolute;
+	background: #000;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	top: 26%;
+	left: 6%;
+}
+.chips_b .chip10 {
+	position: absolute;
+	background: #000;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	top: 26%;
+	left: 26%;
+}
+.chips_b .chip11 {
+	position: absolute;
+	background: #000;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	top: 26%;
+	left: 46%;
+}
+.chips_b .chip12 {
+	position: absolute;
+	background: #000;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	top: 26%;
+	left: 66%;
+}
+/* chips white */
+.chips_w .chip1 {
+	position: absolute;
+	background: #fff;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	bottom: 16%;
+	right: 16%;
+}
+.chips_w .chip2 {
+	position: absolute;
+	background: #fff;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	bottom: 16%;
+	right: 36%;
+}
+.chips_w .chip3 {
+	position: absolute;
+	background: #fff;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	bottom: 16%;
+	right: 56%;
+}
+.chips_w .chip4 {
+	position: absolute;
+	background: #fff;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	bottom: 16%;
+	right: 76%;
+}
+.chips_w .chip5 {
+	position: absolute;
+	background: #fff;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	bottom: 26%;
+	right: 26%;
+}
+.chips_w .chip6 {
+	position: absolute;
+	background: #fff;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	bottom: 26%;
+	right: 46%;
+}
+.chips_w .chip7 {
+	position: absolute;
+	background: #fff;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	bottom: 26%;
+	right: 66%;
+}
+.chips_w .chip8 {
+	position: absolute;
+	background: #fff;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	bottom: 26%;
+	right: 86%;
+}
+.chips_w .chip9 {
+	position: absolute;
+	background: #fff;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	bottom: 36%;
+	right: 16%;
+}
+.chips_w .chip10 {
+	position: absolute;
+	background: #fff;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	bottom: 36%;
+	right: 36%;
+}
+.chips_w .chip11 {
+	position: absolute;
+	background: #fff;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	bottom: 36%;
+	right: 56%;
+}
+.chips_w .chip12 {
+	position: absolute;
+	background: #fff;
+	width: 8%;
+	height: 8%;
+	border-radius: 100%;
+	z-index: 1;
+	bottom: 36%;
+	right: 76%;
+}
+.chips_b > div:hover {
+	border: 1px solid gray;
+	background: #FFF;
+	transform: translateY(20px);
+}
+.chips_w > div:hover {
+	background: #000;
+	transform: translateY(-20px);
+}
