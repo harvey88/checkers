@@ -88,58 +88,297 @@ li:nth-child(2n){
 	width: 80vmin;
 	height: 80vmin;
 	background: #FFF;
-	position: relative;
 	margin: 40px auto;
+	position: relative;
 }
-.ba-cell {
-	border: px solid gray;
-}
-.ba-rows1 {
+.ba-row1 .ba-rows_1 {
 	position: absolute;
-	margin: 20px;
-	width: 90px;
-	height: 90px;
+	width: 10%;
+	height: 10%;
 	border: 1px solid grey;
+	top: 0;
+	left: 0;
+	margin: 5%;
 }
-.ba-rows_1 {
-	background: grey;
-	left: 20px;
+.ba-row1 .ba-rows_2 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 0;
+	left: 10%;
+	margin: 5%;
 }
-.ba-rows_2 {
-	background: white;
-	left: 110px;
+.ba-row1 .ba-rows_3 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 0;
+	left: 20%;
+	margin: 5%;
 }
-.ba-rows_3 {
+.ba-row1 .ba-rows_4 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 0;
+	left: 30%;
+	margin: 5%;
+}
+.ba-row1 .ba-rows_5 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 0;
+	left: 40%;
+	margin: 5%;
+}
+.ba-row1 .ba-rows_6 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 0;
+	left: 50%;
+	margin: 5%;
+}
+.ba-row1 .ba-rows_7 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 0;
+	left: 60%;
+	margin: 5%;
+}
+.ba-row1 .ba-rows_8 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 0;
+	left: 70%;
+	margin: 5%;
+}
+.ba-rows1:nth-child(odd) {
 	background: gray;
-	left: 200px;
 }
-.ba-rows_4 {
+.ba-row2 .ba-rows_1 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 10%;
+	left: 0;
+	margin: 5%;
+}
+.ba-row2 .ba-rows_2 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 10%;
+	left: 10%;
+	margin: 5%;
+}
+.ba-row2 .ba-rows_3 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 10%;
+	left: 20%;
+	margin: 5%;
+}
+.ba-row2 .ba-rows_4 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 10%;
+	left: 30%;
+	margin: 5%;
+}
+.ba-row2 .ba-rows_5 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 10%;
+	left: 40%;
+	margin: 5%;
+}
+.ba-row2 .ba-rows_6 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 10%;
+	left: 50%;
+	margin: 5%;
+}
+.ba-row2 .ba-rows_7 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 10%;
+	left: 60%;
+	margin: 5%;
+}
+.ba-row2 .ba-rows_8 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 10%;
+	left: 70%;
+	margin: 5%;
+}
+.ba-rows2:nth-child(even) {
+	background: gray;
+}
+.ba-row3 .ba-rows_1 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 20%;
+	left: 0;
+	margin: 5%;
+}
+.ba-row3 .ba-rows_2 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 20%;
+	left: 10%;
+	margin: 5%;
+}
+.ba-row3 .ba-rows_3 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 20%;
+	left: 20%;
+	margin: 5%;
+}
+.ba-row3 .ba-rows_4 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 20%;
+	left: 30%;
+	margin: 5%;
+}
+.ba-row3 .ba-rows_5 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 20%;
+	left: 40%;
+	margin: 5%;
+}
+.ba-row3 .ba-rows_6 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 20%;
+	left: 50%;
+	margin: 5%;
+}
+.ba-row3 .ba-rows_7 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 20%;
+	left: 60%;
+	margin: 5%;
+}
+.ba-row3 .ba-rows_8 {
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+	top: 20%;
+	left: 70%;
+	margin: 5%;
+}
+.ba-rows3:nth-child(odd) {
+	background: gray;
+}
+/* .ba-rows1 {
+	position: relative;
+	margin: 20px;
+	width: 11%;
+	height: 11%;
+	border: 1px solid grey;
+	padding: 40px;
+}
+.ba-rows1 > .ba-rows_1 {
+	background: grey;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+}
+.ba-rows2 > .ba-rows_2{
+	position: absolute;
 	background: white;
-	left: 290px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
 }
-.ba-rows_5 {
+.ba-rows3 > .ba-rows_3 {
+	position: absolute;
+	background: gray;
+	left: 180px;
+	right: 0;
+	bottom: 0;
+	top: 0;
+}
+ .ba-rows1 >.ba-rows_4 {
+	position: absolute;
+	background: white;
+	left: 270px;
+	right: 0;
+	bottom: 0;
+	top: 0;
+}
+ .ba-rows1 >.ba-rows_5 {
 	background: gray;
 	left: 380px;
 }
-.ba-rows_6 {
+ .ba-rows1 >.ba-rows_6 {
 	background: white;
 	left: 470px;
 }
-.ba-rows_7 {
+.ba-rows1 >.ba-rows_7 {
 	background: gray;
 	left: 560px;
 }
-.ba-rows_8 {
+.ba-rows1 > .ba-rows_8 {
 	background: white;
 	left: 650px;
 }
-.ba-rows2 {
+.ba-rows1 >.ba-rows2 {
 	position: absolute;
 	margin-left: 20px;
 	margin-top: 110px;
-	width: 90px;
-	height: 90px;
-	border: 1px solid grey
+	width: 11%;
+	height: 11%;
+	border: 1px solid grey;
 }
 .ba-row2 > .ba-rows2:nth-child(2n) {
 	background: gray;
@@ -151,16 +390,16 @@ li:nth-child(2n){
 	position: absolute;
 	margin-left: 20px;
 	margin-top: 200px;
-	width: 90px;
-	height: 90px;
+	width: 11%;
+	height: 11%;
 	border: 1px solid grey
 }
 .ba-rows4 {
 	position: absolute;
 	margin-left: 20px;
 	margin-top: 290px;
-	width: 90px;
-	height: 90px;
+	width: 11%;
+	height: 11%;
 	border: 1px solid grey
 }
 .ba-row4 > .ba-rows4:nth-child(2n) {
@@ -173,16 +412,16 @@ li:nth-child(2n){
 	position: absolute;
 	margin-left: 20px;
 	margin-top: 380px;
-	width: 90px;
-	height: 90px;
+	width: 11%;
+	height: 11%;
 	border: 1px solid grey
 }
 .ba-rows6 {
 	position: absolute;
 	margin-left: 20px;
 	margin-top: 470px;
-	width: 90px;
-	height: 90px;
+	width: 11%;
+	height: 11%;
 	border: 1px solid grey
 }
 .ba-row6 > .ba-rows6:nth-child(2n) {
@@ -195,16 +434,16 @@ li:nth-child(2n){
 	position: absolute;
 	margin-left: 20px;
 	margin-top: 560px;
-	width: 90px;
-	height: 90px;
+	width: 11%;
+	height: 11%;
 	border: 1px solid grey
 }
 .ba-rows8 {
 	position: absolute;
 	margin-left: 20px;
 	margin-top: 650px;
-	width: 90px;
-	height: 90px;
+	width: 11%;
+	height: 11%;
 	border: 1px solid grey
 }
 .ba-row8 > .ba-rows8:nth-child(2n) {
@@ -213,3 +452,4 @@ li:nth-child(2n){
 .ba-row8 > .ba-rows8:nth-child(odd) {
 	background: #fff;
 }
+ */
