@@ -65,79 +65,51 @@ textarea {
 	bottom: 0;
 	/* border: 20px solid #fff; */
 }
-
+.ba-rows {
+	width: 10%;
+	height: 10%;
+	border: 1px solid grey;
+}
 /* row 1 */
  .ba-row1 .ba-rows_1 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 0;
-	left: 0;
-	margin: 5%;
+	top: 10%;
+	left: 10%;
 }
 .ba-row1 .ba-rows_2 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 0;
-	left: 10%;
-	margin: 5%;
+	top: 10%;
+	left: 20%;
 }
 .ba-row1 .ba-rows_3 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 0;
-	left: 20%;
-	margin: 5%;
+	top: 10%;
+	left: 30%;
 }
 .ba-row1 .ba-rows_4 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 0;
-	left: 30%;
-	margin: 5%;
+	top: 10%;
+	left: 40%;
 }
 .ba-row1 .ba-rows_5 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 0;
-	left: 40%;
-	margin: 5%;
+	top: 10%;
+	left: 50%;
 }
 .ba-row1 .ba-rows_6 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 0;
-	left: 50%;
-	margin: 5%;
+	top: 10%;
+	left: 60%;
 }
 .ba-row1 .ba-rows_7 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 0;
-	left: 60%;
-	margin: 5%;
+	top: 10%;
+	left: 70%;
 }
 .ba-row1 .ba-rows_8 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 0;
-	left: 70%;
-	margin: 5%;
+	top: 10%;
+	left: 80%;
 }
 .ba-rows1:nth-child(odd) {
 	background: gray;
@@ -145,75 +117,43 @@ textarea {
 /* row 2 */
 .ba-row2 .ba-rows_1 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 10%;
-	left: 0;
-	margin: 5%;
+	top: 20%;
+	left: 10%;
 }
 .ba-row2 .ba-rows_2 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 10%;
-	left: 10%;
-	margin: 5%;
+	top: 20%;
+	left: 20%;
 }
 .ba-row2 .ba-rows_3 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 10%;
-	left: 20%;
-	margin: 5%;
+	top: 20%;
+	left: 30%;
 }
 .ba-row2 .ba-rows_4 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 10%;
-	left: 30%;
-	margin: 5%;
+	top: 20%;
+	left: 40%;
 }
 .ba-row2 .ba-rows_5 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 10%;
-	left: 40%;
-	margin: 5%;
+	top: 20%;
+	left: 50%;
 }
 .ba-row2 .ba-rows_6 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 10%;
-	left: 50%;
-	margin: 5%;
+	top: 20%;
+	left: 60%;
 }
 .ba-row2 .ba-rows_7 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 10%;
-	left: 60%;
-	margin: 5%;
+	top: 20%;
+	left: 70%;
 }
 .ba-row2 .ba-rows_8 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 10%;
-	left: 70%;
-	margin: 5%;
+	top: 20%;
+	left: 80%;
 }
 .ba-rows2:nth-child(even) {
 	background: gray;
@@ -221,75 +161,43 @@ textarea {
 /* row 3 */
 .ba-row3 .ba-rows_1 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 20%;
-	left: 0;
-	margin: 5%;
+	top: 30%;
+	left: 10%;
 }
 .ba-row3 .ba-rows_2 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 20%;
-	left: 10%;
-	margin: 5%;
+	top: 30%;
+	left: 20%;
 }
 .ba-row3 .ba-rows_3 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 20%;
-	left: 20%;
-	margin: 5%;
+	top: 30%;
+	left: 30%;
 }
 .ba-row3 .ba-rows_4 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 20%;
-	left: 30%;
-	margin: 5%;
+	top: 30%;
+	left: 40%;
 }
 .ba-row3 .ba-rows_5 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 20%;
-	left: 40%;
-	margin: 5%;
+	top: 30%;
+	left: 50%;
 }
 .ba-row3 .ba-rows_6 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 20%;
-	left: 50%;
-	margin: 5%;
+	top: 30%;
+	left: 60%;
 }
 .ba-row3 .ba-rows_7 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 20%;
-	left: 60%;
-	margin: 5%;
+	top: 30%;
+	left: 70%;
 }
 .ba-row3 .ba-rows_8 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 20%;
-	left: 70%;
-	margin: 5%;
+	top: 30%;
+	left: 80%;
 }
 .ba-rows3:nth-child(odd) {
 	background: gray;
@@ -297,75 +205,43 @@ textarea {
 /* row 4 */
 .ba-row4 .ba-rows_1 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 30%;
-	left: 0;
-	margin: 5%;
+	top: 40%;
+	left: 10%;
 }
 .ba-row4 .ba-rows_2 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 30%;
-	left: 10%;
-	margin: 5%;
+	top: 40%;
+	left: 20%;
 }
 .ba-row4 .ba-rows_3 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 30%;
-	left: 20%;
-	margin: 5%;
+	top: 40%;
+	left: 30%;
 }
 .ba-row4 .ba-rows_4 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 30%;
-	left: 30%;
-	margin: 5%;
+	top: 40%;
+	left: 40%;
 }
 .ba-row4 .ba-rows_5 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 30%;
-	left: 40%;
-	margin: 5%;
+	top: 40%;
+	left: 50%;
 }
 .ba-row4 .ba-rows_6 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 30%;
-	left: 50%;
-	margin: 5%;
+	top: 40%;
+	left: 60%;
 }
 .ba-row4 .ba-rows_7 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 30%;
-	left: 60%;
-	margin: 5%;
+	top: 40%;
+	left: 70%;
 }
 .ba-row4 .ba-rows_8 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 30%;
-	left: 70%;
-	margin: 5%;
+	top: 40%;
+	left: 80%;
 }
 .ba-rows4:nth-child(even) {
 	background: gray;
@@ -373,75 +249,43 @@ textarea {
 /* row 5 */
 .ba-row5 .ba-rows_1 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 40%;
-	left: 0;
-	margin: 5%;
+	top: 50%;
+	left: 10%;
 }
 .ba-row5 .ba-rows_2 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 40%;
-	left: 10%;
-	margin: 5%;
+	top: 50%;
+	left: 20%;
 }
 .ba-row5 .ba-rows_3 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 40%;
-	left: 20%;
-	margin: 5%;
+	top: 50%;
+	left: 30%;
 }
 .ba-row5 .ba-rows_4 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 40%;
-	left: 30%;
-	margin: 5%;
+	top: 50%;
+	left: 40%;
 }
 .ba-row5 .ba-rows_5 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 40%;
-	left: 40%;
-	margin: 5%;
+	top: 50%;
+	left: 50%;
 }
 .ba-row5 .ba-rows_6 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 40%;
-	left: 50%;
-	margin: 5%;
+	top: 50%;
+	left: 60%;
 }
 .ba-row5 .ba-rows_7 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 40%;
-	left: 60%;
-	margin: 5%;
+	top: 50%;
+	left: 70%;
 }
 .ba-row5 .ba-rows_8 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 40%;
-	left: 70%;
-	margin: 5%;
+	top: 50%;
+	left: 80%;
 }
 .ba-rows5:nth-child(odd) {
 	background: gray;
@@ -449,75 +293,43 @@ textarea {
 /* row 6 */
 .ba-row6 .ba-rows_1 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 50%;
-	left: 0;
-	margin: 5%;
+	top: 60%;
+	left: 10%;
 }
 .ba-row6 .ba-rows_2 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 50%;
-	left: 10%;
-	margin: 5%;
+	top: 60%;
+	left: 20%;
 }
 .ba-row6 .ba-rows_3 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 50%;
-	left: 20%;
-	margin: 5%;
+	top: 60%;
+	left: 30%;
 }
 .ba-row6 .ba-rows_4 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 50%;
-	left: 30%;
-	margin: 5%;
+	top: 60%;
+	left: 40%;
 }
 .ba-row6 .ba-rows_5 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 50%;
-	left: 40%;
-	margin: 5%;
+	top: 60%;
+	left: 50%;
 }
 .ba-row6 .ba-rows_6 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 50%;
-	left: 50%;
-	margin: 5%;
+	top: 60%;
+	left: 60%;
 }
 .ba-row6 .ba-rows_7 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 50%;
-	left: 60%;
-	margin: 5%;
+	top: 60%;
+	left: 70%;
 }
 .ba-row6 .ba-rows_8 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 50%;
-	left: 70%;
-	margin: 5%;
+	top: 60%;
+	left: 80%;
 }
 .ba-rows6:nth-child(even) {
 	background: gray;
@@ -525,75 +337,43 @@ textarea {
 /* row 7 */
 .ba-row7 .ba-rows_1 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 60%;
-	left: 0;
-	margin: 5%;
+	top: 70%;
+	left: 10%;
 }
 .ba-row7 .ba-rows_2 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 60%;
-	left: 10%;
-	margin: 5%;
+	top: 70%;
+	left: 20%;
 }
 .ba-row7 .ba-rows_3 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 60%;
-	left: 20%;
-	margin: 5%;
+	top: 70%;
+	left: 30%;
 }
 .ba-row7 .ba-rows_4 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 60%;
-	left: 30%;
-	margin: 5%;
+	top: 70%;
+	left: 40%;
 }
 .ba-row7 .ba-rows_5 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 60%;
-	left: 40%;
-	margin: 5%;
+	top: 70%;
+	left: 50%;
 }
 .ba-row7 .ba-rows_6 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 60%;
-	left: 50%;
-	margin: 5%;
+	top: 70%;
+	left: 60%;
 }
 .ba-row7 .ba-rows_7 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 60%;
-	left: 60%;
-	margin: 5%;
+	top: 70%;
+	left: 70%;
 }
 .ba-row7 .ba-rows_8 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 60%;
-	left: 70%;
-	margin: 5%;
+	top: 70%;
+	left: 80%;
 }
 .ba-rows7:nth-child(odd) {
 	background: gray;
@@ -601,326 +381,73 @@ textarea {
 /* row 8 */
 .ba-row8 .ba-rows_1 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 70%;
-	left: 0;
-	margin: 5%;
+	top: 80%;
+	left: 10%;
 }
 .ba-row8 .ba-rows_2 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 70%;
-	left: 10%;
-	margin: 5%;
+	top: 80%;
+	left: 20%;
 }
 .ba-row8 .ba-rows_3 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 70%;
-	left: 20%;
-	margin: 5%;
+	top: 80%;
+	left: 30%;
 }
 .ba-row8 .ba-rows_4 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 70%;
-	left: 30%;
-	margin: 5%;
+	top: 80%;
+	left: 40%;
 }
 .ba-row8 .ba-rows_5 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 70%;
-	left: 40%;
-	margin: 5%;
+	top: 80%;
+	left: 50%;
 }
 .ba-row8 .ba-rows_6 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 70%;
-	left: 50%;
-	margin: 5%;
+	top: 80%;
+	left: 60%;
 }
 .ba-row8 .ba-rows_7 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 70%;
-	left: 60%;
-	margin: 5%;
+	top: 80%;
+	left: 70%;
 }
 .ba-row8 .ba-rows_8 {
 	position: absolute;
-	width: 10%;
-	height: 10%;
-	border: 1px solid grey;
-	top: 70%;
-	left: 70%;
-	margin: 5%;
+	top: 80%;
+	left: 80%;
 }
 .ba-rows8:nth-child(even) {
 	background: gray;
 }
-.chips_b .chip1 {
+
+/* 	Chips */
+.ba-rows1:nth-child(odd)::after,
+.ba-rows2:nth-child(even)::after,
+.ba-rows3:nth-child(odd)::after{
 	position: absolute;
-	background: #000;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	top: 6%;
-	left: 6%;
+	display: block;
+	content: '';
+	background: black;
+	width: 80%;
+	height: 80%;
+	border-radius: 50px;
+	top: 10%;
+	left: 10%;
 }
-.chips_b .chip2 {
-	position: absolute;
-	background: #000;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	top: 6%;
-	left: 26%;
+ .ba-rows6:nth-child(even)::after,
+ .ba-rows7:nth-child(odd)::after,
+ .ba-rows8:nth-child(even)::after{
+ 	width: 80%;
+	height: 80%;
+	background: red;
+	border-radius: 50px;
+ 	position: absolute;
+    display: block;
+	top: 10%;
+	left: 10%;
+    content: '';
 }
-.chips_b .chip3 {
-	position: absolute;
-	background: #000;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	top: 6%;
-	left: 46%;
-}
-.chips_b .chip4 {
-	position: absolute;
-	background: #000;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	top: 6%;
-	left: 66%;
-}
-.chips_b .chip5 {
-	position: absolute;
-	background: #000;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	top: 16%;
-	left: 16%;
-}
-.chips_b .chip6 {
-	position: absolute;
-	background: #000;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	top: 16%;
-	left: 36%;
-}
-.chips_b .chip7 {
-	position: absolute;
-	background: #000;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	top: 16%;
-	left: 56%;
-}
-.chips_b .chip8 {
-	position: absolute;
-	background: #000;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	top: 16%;
-	left: 76%;
-}
-.chips_b .chip9 {
-	position: absolute;
-	background: #000;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	top: 26%;
-	left: 6%;
-}
-.chips_b .chip10 {
-	position: absolute;
-	background: #000;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	top: 26%;
-	left: 26%;
-}
-.chips_b .chip11 {
-	position: absolute;
-	background: #000;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	top: 26%;
-	left: 46%;
-}
-.chips_b .chip12 {
-	position: absolute;
-	background: #000;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	top: 26%;
-	left: 66%;
-}
-/* chips white */
-.chips_w .chip1 {
-	position: absolute;
-	background: #fff;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	bottom: 16%;
-	right: 16%;
-}
-.chips_w .chip2 {
-	position: absolute;
-	background: #fff;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	bottom: 16%;
-	right: 36%;
-}
-.chips_w .chip3 {
-	position: absolute;
-	background: #fff;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	bottom: 16%;
-	right: 56%;
-}
-.chips_w .chip4 {
-	position: absolute;
-	background: #fff;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	bottom: 16%;
-	right: 76%;
-}
-.chips_w .chip5 {
-	position: absolute;
-	background: #fff;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	bottom: 26%;
-	right: 26%;
-}
-.chips_w .chip6 {
-	position: absolute;
-	background: #fff;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	bottom: 26%;
-	right: 46%;
-}
-.chips_w .chip7 {
-	position: absolute;
-	background: #fff;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	bottom: 26%;
-	right: 66%;
-}
-.chips_w .chip8 {
-	position: absolute;
-	background: #fff;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	bottom: 26%;
-	right: 86%;
-}
-.chips_w .chip9 {
-	position: absolute;
-	background: #fff;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	bottom: 36%;
-	right: 16%;
-}
-.chips_w .chip10 {
-	position: absolute;
-	background: #fff;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	bottom: 36%;
-	right: 36%;
-}
-.chips_w .chip11 {
-	position: absolute;
-	background: #fff;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	bottom: 36%;
-	right: 56%;
-}
-.chips_w .chip12 {
-	position: absolute;
-	background: #fff;
-	width: 8%;
-	height: 8%;
-	border-radius: 100%;
-	z-index: 1;
-	bottom: 36%;
-	right: 76%;
-}
-.chips_b > div:hover {
-	border: 1px solid gray;
-	background: #FFF;
-	transform: translateY(20px);
-}
-.chips_w > div:hover {
-	background: #000;
-	transform: translateY(-20px);
-}
+
